@@ -1,0 +1,50 @@
+[0516/183823:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0516/183825:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: layoutComplete on node id 1
+id=1 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= html_tag=#document doc_title= doc_url= doc_mimetype=text/html name= doc_progress=1 doc_loaded=true
+
+[0516/183825:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: childrenChanged on node id 1
+id=1 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= html_tag=#document doc_title= doc_url= doc_mimetype=text/html name= doc_progress=1 doc_loaded=true
+
+[0516/183827:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: layoutComplete on node id 5
+AXTreeUpdate: clear node 1
+id=5 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990206990308537 html_tag=#document doc_title=Process Modeler Cloud Web Application doc_url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990206990308537 doc_mimetype=text/html doc_doctype=html name=Process Modeler Cloud Web Application doc_progress=.5 doc_loaded=false child_ids=12
+  id=12 group READONLY (60, 308)-(300, 17) value= name= child_ids=14
+    id=14 staticText READONLY (176, 308)-(68, 17) value=Loading ... display=inline name= child_ids=16
+      id=16 inlineTextBox (176, 308)-(68, 17) text_direction=lr value=Loading ... name= character_offsets=8,16,24,32,35,43,51,55,59,63,67 word_starts=0 word_ends=7
+
+[0516/183830:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: childrenChanged on node id 8
+id=5 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990206990308537 html_tag=#document doc_title=Process Modeler Cloud Web Application doc_url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990206990308537 doc_mimetype=text/html doc_doctype=html name=Process Modeler Cloud Web Application doc_progress=1 doc_loaded=true child_ids=12
+
+[0516/183830:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: layoutComplete on node id 5
+id=5 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990206990308537 html_tag=#document doc_title=Process Modeler Cloud Web Application doc_url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990206990308537 doc_mimetype=text/html doc_doctype=html name=Process Modeler Cloud Web Application doc_progress=1 doc_loaded=true child_ids=12
+
+[0516/183830:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: loadComplete on node id 5
+id=5 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990206990308537 html_tag=#document doc_title=Process Modeler Cloud Web Application doc_url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990206990308537 doc_mimetype=text/html doc_doctype=html name=Process Modeler Cloud Web Application doc_progress=1 doc_loaded=true child_ids=12
+
+[0516/183836:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0516/213304:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0516/213304:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: layoutComplete on node id 1
+id=1 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= html_tag=#document doc_title= doc_url= doc_mimetype=text/html name= doc_progress=1 doc_loaded=true
+
+[0516/213304:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: childrenChanged on node id 1
+id=1 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= html_tag=#document doc_title= doc_url= doc_mimetype=text/html name= doc_progress=1 doc_loaded=true
+
+[0516/213306:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: layoutComplete on node id 5
+AXTreeUpdate: clear node 1
+id=5 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990311840505625 html_tag=#document doc_title=Process Modeler Cloud Web Application doc_url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990311840505625 doc_mimetype=text/html doc_doctype=html name=Process Modeler Cloud Web Application doc_progress=.49831700325012207 doc_loaded=false child_ids=12
+  id=12 group READONLY (60, 308)-(300, 17) value= name= child_ids=14
+    id=14 staticText READONLY (176, 308)-(68, 17) value=Loading ... display=inline name= child_ids=16
+      id=16 inlineTextBox (176, 308)-(68, 17) text_direction=lr value=Loading ... name= character_offsets=8,16,24,32,35,43,51,55,59,63,67 word_starts=0 word_ends=7
+
+[0516/213309:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: childrenChanged on node id 8
+id=5 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990311840505625 html_tag=#document doc_title=Process Modeler Cloud Web Application doc_url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990311840505625 doc_mimetype=text/html doc_doctype=html name=Process Modeler Cloud Web Application doc_progress=1 doc_loaded=true child_ids=12
+
+[0516/213309:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: layoutComplete on node id 5
+id=5 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990311840505625 html_tag=#document doc_title=Process Modeler Cloud Web Application doc_url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990311840505625 doc_mimetype=text/html doc_doctype=html name=Process Modeler Cloud Web Application doc_progress=1 doc_loaded=true child_ids=12
+
+[0516/213309:INFO:renderer_accessibility_complete.cc(227)] Accessibility event: loadComplete on node id 5
+id=5 rootWebArea FOCUSABLE READONLY VERTICAL (0, 0)-(420, 581) scroll_x=0 scroll_y=0 scroll_x_min=0 scroll_y_min=0 scroll_x_max=0 scroll_y_max=0 value= url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990311840505625 html_tag=#document doc_title=Process Modeler Cloud Web Application doc_url=https://model.bizagi.com/oauth.html?isModeler=true&lang=en&guid=f6b6a59e-cc98-4cc8-a2ad-f3be7f09f2e5&r=635990311840505625 doc_mimetype=text/html doc_doctype=html name=Process Modeler Cloud Web Application doc_progress=1 doc_loaded=true child_ids=12
+
+[0516/213312:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0517/081244:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0517/081244:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
